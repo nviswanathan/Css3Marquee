@@ -1,5 +1,11 @@
-# Css3 Marquee
-Jquery plugin for marquee effect using css3
+# CSS3 Marquee
+Jquery plugin for marquee effect using CSS3
+
+
+
+# Why?
+
+The default marquee html tag animation is not smooth in all browsers. It's looks very choppy in all browsers except Chromium and Chrome. So we decided to use CSS3 animation property to solve this problem. It will work in WebKit as well. 
 
 
 
@@ -23,16 +29,16 @@ Jquery plugin for marquee effect using css3
    </div>
    ```
 
-3. Select your content and apply this effect
+3. Select your content and apply the effect
    ```javascript
    $('.righttoleft').Css3Marquee();
    ```
 
 ## Options
 
-You can changes the options in two way.
+You can change the options in two ways:
 
-1. Use HTML data attriute.
+1. Use HTML data attribute.
 
    ```html
    <p class="righttoleft" data-direction='left' data-speed=10>Css 3 Based Marquee</p>
@@ -47,3 +53,18 @@ You can changes the options in two way.
    });
    ```
 
+
+### Default 
+
+```
+{
+  direction:'left', //['right', 'bottom', 'top']
+  speed:10
+}
+```
+
+
+
+# TODO:
+
+1. ​
