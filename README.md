@@ -15,12 +15,14 @@ Jquery plugin for marquee effect using css3
    ```html
    <script type="application/javascript" src="//cdn.rawgit.com/nviswanathan/Css3Marquee/master/marquee.js"></script>
    ```
+   
 2. Create Your Marquee content
    ```html
    <div>
    <p class="righttoleft" data-direction='left'>Css 3 Based Marquee</p>
    </div>
    ```
+   
 3. Select your content and apply this effect
    ```javascript
    $('.righttoleft').Css3Marquee();
