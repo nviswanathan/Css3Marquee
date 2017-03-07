@@ -5,13 +5,13 @@ Jquery plugin for marquee effect using css3
 
 ## Dependncy	
 
-1. Jquery
+1. [Jquery](http://code.jquery.com/jquery-1.9.1.js)
 
 
 
 ## Usage
 
-1. In clude blow script tag in to your index page
+1. Include below script tag in to your html page
 
 ```
 <script type="application/javascript" src="//cdn.rawgit.com/nviswanathan/Css3Marquee/master/marquee.js"></script>
@@ -29,9 +29,8 @@ Jquery plugin for marquee effect using css3
 
 
 
-3. Select your content and apply
+3. Select your content and apply this effect
 
 ```
 $('.righttoleft').Css3Marquee();
 ```
-
