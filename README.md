@@ -1,5 +1,5 @@
 # CSS3 Marquee
-Jquery plugin for marquee effect using CSS3
+Jquery plugin for marquee effect using CSS3. [Demo](http://cdn.rawgit.com/nviswanathan/Css3Marquee/master/index.html)
 
 
 
