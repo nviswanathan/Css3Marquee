@@ -80,7 +80,7 @@
 				this.options.end = - end_width + 'px';
 			}
 			else{
-				this.options.start = - end_width + 'px';
+				this.options.start = - start_width + 'px';
 				this.options.end = end_width + 'px';
 			}
     	},
