@@ -68,7 +68,7 @@
 			this.style_node = $(style);
     	},
 
-    	_calcuationByWidth(){
+    	_calcuationByWidth: function(){
     		var marquee = this.jQElement;
 			var end_width = marquee.outerWidth();
 			var start_width = marquee.parent().outerWidth();
@@ -85,7 +85,7 @@
 			}
     	},
 
-    	_calcuationByHeight(){
+    	_calcuationByHeight: function(){
     		var marquee = this.jQElement;
 			var end_height = marquee.outerHeight();
 			var start_height = marquee.parent().outerHeight();

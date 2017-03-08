@@ -56,9 +56,9 @@ You can change the options in two ways:
 
 ### Default 
 
-```
+```javascript
 {
-  direction:'left', //['right', 'bottom', 'top']
+  direction:'left', //['left', 'right', 'bottom', 'top']
   speed:10
 }
 ```
