@@ -1,5 +1,5 @@
 # CSS3 Marquee
-Jquery plugin for marquee effect using CSS3. [Demo](http://cdn.rawgit.com/nviswanathan/Css3Marquee/master/index.html)
+Jquery plugin for marquee effect using CSS3. [Demo](https://nviswanathan.github.io/Css3Marquee/)
 
 
 
@@ -67,4 +67,6 @@ You can change the options in two ways:
 
 # TODO:
 
-1. ​
+1. Page resize 
+
+   ​

@@ -77,11 +77,11 @@
 			this.options.translate = direction_based_tranform[this.options.direction];
 			if(this.options.direction == 'left'){
 				this.options.start = start_width + 'px';
-				this.options.end = - animation_end_width + 'px';
+				this.options.end = - end_width + 'px';
 			}
 			else{
 				this.options.start = - end_width + 'px';
-				this.options.end = animation_end_width + 'px';
+				this.options.end = end_width + 'px';
 			}
     	},
 
